@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "First Post"
 tags: "Data science", "Metis", "Blog"
 ---
