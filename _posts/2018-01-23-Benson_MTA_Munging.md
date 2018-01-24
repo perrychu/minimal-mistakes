@@ -1,9 +1,8 @@
 ---
-
 title: "First Post"
-tags: "Data science" "Metis" "Blog"
-
+tags: "Data science", "Metis", "Blog"
 ---
+
 
 This is a blog post about munging the MTA data and what I learned.
 
