@@ -6,7 +6,7 @@ tags: [Data science, Metis, Blog]
 #Metis  
   
 Last week, my cohort started at Metis, a project-centered data science bootcamp. Over 12 weeks, ~30 of us are learning the full process - data acquisition, cleaning, exploratory analysis, modeling, and presenting.  
-
+  
 Our first project was centered on cleaning and exploratory analysis of MTA turnstile data (http://web.mta.info/developers/turnstile.html)
 
 This is a blog post about munging the MTA data and what I've learned so far.
