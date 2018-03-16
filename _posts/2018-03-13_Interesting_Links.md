@@ -17,7 +17,6 @@ https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and
 David Silver's lecture notes  
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
-
 ## MOOCs
 Machine Learning (Andrew Ng)  
 https://www.coursera.org/learn/machine-learning
@@ -25,3 +24,22 @@ https://www.coursera.org/learn/machine-learning
 Deep Learning (Google)  
 https://www.udacity.com/course/deep-learning--ud730
 
+## Sets of Datasets
+Awesome Datasets @ Github  
+https://github.com/awesomedata/awesome-public-datasets
+  * [Tencent recommendation scoring](https://www.kaggle.com/c/kddcup2012-track1#SubmissionInstructions)
+  * [USPTO bulk patent data](https://www.uspto.gov/learning-and-resources/bulk-data-products)
+  * [Youtube video tagging](https://research.google.com/youtube8m/download.html)
+
+Data competitions:
+  * [Crowd Analytix (like kaggle)](https://crowdanalytix.com/community)
+  * [Driven Data (kaggle for social good)](https://www.drivendata.org/competitions/)
+
+Kdnuggets
+https://www.kdnuggets.com/datasets/index.html
+
+Elite Data Science
+https://elitedatascience.com/datasets
+
+Large datasets @ Quora
+https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
