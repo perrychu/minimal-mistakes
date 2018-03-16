@@ -24,6 +24,13 @@ https://www.coursera.org/learn/machine-learning
 Deep Learning (Google)  
 https://www.udacity.com/course/deep-learning--ud730
 
+## Tensors
+Conceptual Overview  
+https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32
+
+Paper on Tensor Decompositions (math)  
+http://www.sandia.gov/~tgkolda/pubs/pubfiles/SAND2007-6702.pdf
+
 ## Sets of Datasets
 Awesome Datasets @ Github https://github.com/awesomedata/awesome-public-datasets
   * [Tencent recommendation scoring](https://www.kaggle.com/c/kddcup2012-track1#SubmissionInstructions)
