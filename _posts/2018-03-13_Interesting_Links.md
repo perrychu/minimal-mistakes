@@ -40,3 +40,4 @@ Elite Data Science https://elitedatascience.com/datasets
 
 Large datasets @ Quora https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
   * [Yelp Dataset](https://www.yelp.com/dataset/challenge)
+  * [Answer w/ dataset by size desc](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public/answer/Jeff-Hammerbacher?share=db74d990&srid=5S7kn)
