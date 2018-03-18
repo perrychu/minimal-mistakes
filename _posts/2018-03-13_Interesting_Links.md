@@ -7,6 +7,9 @@ http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenti
 Overview of Neural Networks for NLP; links to great explanations of Recurrent / LTSM / Attention NNs  
 https://towardsdatascience.com/natural-language-processing-in-artificial-intelligence-is-almost-human-level-accurate-fbdaffed6392
 
+Practical tips for Generative Adversarial Networks
+https://github.com/soumith/ganhacks
+
 ## Reinforcment Learning
 Overview of random vs. genetic vs. model approaches  
 https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
