@@ -13,6 +13,10 @@ https://github.com/soumith/ganhacks
 Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)
 https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
+## Timeseries
+https://www.otexts.org/fpp
+https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
+
 ## Reinforcment Learning
 Overview of random vs. genetic vs. model approaches  
 https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
