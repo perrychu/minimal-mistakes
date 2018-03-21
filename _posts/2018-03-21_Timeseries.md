@@ -14,7 +14,7 @@
   - Implies seasonality
   - Not applicable for non-repeating patterns
   
-### What are ACF / PACF?
+### What are ACF / PACF? (3)
 1) ACF = correlation with time lag (t-i), used to describe MA
 2) PACF = correlation with time lag (t-i) with effect of (t-1)...(t-i+1) removed, used to describe AR
 
@@ -23,6 +23,6 @@
 2) Look at the CF(s) which decrease to zero
 3) Take # lags above X away from zero (x is threshold parameter)
 
-### ARIMA
+### ARIMA (4)
 - AR: X(t) = a(X(t-1)) + err(t)
 - MA: X(t) = b(err(t-1)) + err(t)
