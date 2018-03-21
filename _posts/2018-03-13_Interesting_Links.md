@@ -4,6 +4,9 @@ A collection of links I want to come back to later
 Communicating Data Science  
 http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/
 
+Vizualizations Guide (via data science renee)
+http://serialmentor.com/dataviz/aesthetic-mapping.html
+
 Overview of Neural Networks for NLP; links to great explanations of Recurrent / LTSM / Attention NNs  
 https://towardsdatascience.com/natural-language-processing-in-artificial-intelligence-is-almost-human-level-accurate-fbdaffed6392
 
@@ -14,8 +17,12 @@ Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)
 https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
 ## Timeseries
-https://www.otexts.org/fpp
-https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
+Intro to Python ARIMA (using statsmodels)  
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+"Textbooks"  
+[Forecasting principles and practice](https://www.otexts.org/fpp)
+[Little book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 
 ## Reinforcment Learning
 Overview of random vs. genetic vs. model approaches  
