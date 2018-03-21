@@ -15,10 +15,8 @@
   - Not applicable for non-repeating patterns
   
 ### What are ACF / PACF?
-1) ACF = correlation with time lag (t-i)
-  - For MA
-2) PACF = correlation with all time lags (t-1)...(t-i)
-  - For AR
+1) ACF = correlation with time lag (t-i), used to describe MA
+2) PACF = correlation with time lag (t-i) with effect of (t-1)...(t-i+1) removed, used to describe AR
 
 ##### Steps:
 1) Plot
