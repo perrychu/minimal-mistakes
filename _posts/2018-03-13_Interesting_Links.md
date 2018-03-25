@@ -20,8 +20,14 @@ https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 Intro to Python ARIMA (using statsmodels)  
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
+More Python ARIMA  
+https://thingsolver.com/forecasting-with-arima/
+
+Continuation with VAR (pyflux) / Facebook Prophet  
+https://thingsolver.com/forecasting-var-prophet/
+
 "Textbooks"  
-[Forecasting principles and practice](https://www.otexts.org/fpp)
+[Forecasting principles and practice](https://www.otexts.org/fpp)  
 [Little book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 
 ## Reinforcment Learning
