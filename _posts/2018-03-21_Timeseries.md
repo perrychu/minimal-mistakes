@@ -26,3 +26,10 @@
 ### ARIMA (4)
 - AR: X(t) = a(X(t-1)) + err(t)
 - MA: X(t) = b(err(t-1)) + err(t)
+
+## Links
+* [4 Time series models with epidemiology data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914930/)
+* [ARIMA prediction / simulation](https://stats.stackexchange.com/questions/132635/arima-equation-interpretation)
+* [ARIMA vs Linear regression](https://stats.stackexchange.com/questions/188821/what-is-are-the-mechanical-difference-between-multiple-linear-regression-with)
+* [Example using ACF / PACF to determine ARIMA order](https://www.economicsnetwork.ac.uk/showcase/cook_arima)
+* [GARCH with Apple stock data](https://rstudio-pubs-static.s3.amazonaws.com/258811_b43d4c7bb2c74851b5b95f29a09c5b30.html)
