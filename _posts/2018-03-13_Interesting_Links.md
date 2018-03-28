@@ -16,6 +16,9 @@ https://github.com/soumith/ganhacks
 Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)
 https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
+# RNN / LSTM Explanation (Stanford CS231 Lecture)
+https://www.youtube.com/watch?v=iX5V1WpxxkY
+
 ## Timeseries
 Intro to Python ARIMA (using statsmodels)  
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
