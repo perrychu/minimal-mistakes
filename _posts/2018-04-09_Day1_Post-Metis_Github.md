@@ -14,7 +14,8 @@ This will be a work-in-progress over the next few days, but I have a few main go
 2) Learn git / github best practices & rules of thumb (which should help with part 1)
 3) Document / plan workflow for extensions of the projects which I didn't have time to do during bootcamp
 
-For part 1 & 3, it's mainly a matter of writing ReadMes for the repos I post and doing a little extra code / jupyter notebook cleanup. I'll also post the presentations I created.
+For part 1 & 3, I need to write ReadMes for the repos I post and do a little extra code / jupyter notebook cleanup. I'll also post the presentations I created. Here are steps for uploading existing project files to github:
+* [Uploading an existing project to github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 For part 2, I've found a few useful links:
 * [Agis's git style guide](https://github.com/agis/git-style-guide) - tldr: Have been linked to this many times!
