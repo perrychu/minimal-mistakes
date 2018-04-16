@@ -1,9 +1,9 @@
 ---
-title: "Day 1: Github"
+title: "Cleaning Up Github"
 tags: [Metis, Blog, Careers]
 ---
 
-## Day 1: Github
+## Day 1: Cleaning Up Github
 Today is my first day as a Metis grad! I'm excited to continue learning - building on the base of skills I've acquired through Metis - and also excited to be out in the wild, tracking down a career in data science. 
 
 As a first step on this journey, I want to publish my portfolio. Over the past 3 months, I've labored over multiple end-to-end data projects... but there's no way for anyone else to see that! 
