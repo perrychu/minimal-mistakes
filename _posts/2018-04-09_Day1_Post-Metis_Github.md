@@ -26,6 +26,11 @@ Uploading & naming conventions:
 * [Grouping repos on github](https://stackoverflow.com/questions/20908994/grouping-repos-on-github) - tldr: there's not a standard, pre-fixing is widely used or can be done via organizations
 * [Agis's git style guide](https://github.com/agis/git-style-guide) - tldr: Have been linked to this many times!
 
+.README
+* [Github guide](https://guides.github.com/features/wikis/)
+* [Good readmes & articles](https://github.com/matiassingers/awesome-readme)
+* [Example - William Chen](https://github.com/wzchen/stock_market_prediction/blob/master/README.md)
+
 Git commands
 * [Everyday git commands](https://git-scm.com/docs/giteveryday)
 * [More detailed command explanations](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
@@ -37,4 +42,4 @@ Workflow conventions:
 
 Misc:
 * [Pros/cons of github via https vs ssh](https://gist.github.com/grawity/4392747)
-* [Git docs / review of how it works](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Git docs / how git works](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
