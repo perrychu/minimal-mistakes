@@ -1,3 +1,8 @@
+---
+title: "Miscellaneous Links"  
+tags: [Data science, Resources]  
+---
+
 A collection of links I want to come back to later
 
 ## Misc 
