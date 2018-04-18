@@ -12,3 +12,14 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+
+#Un-necessary files from docs 
+#(https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+/.editorconfig
+/.gitattributes
+/.github
+/docs/
+/test/
+/minimal-mistakes-jekyll.gemspec
+/screenshot-layouts.png
+/screenshot.png
