@@ -1,3 +1,10 @@
+---
+title: "Time Series Notes & Resources"
+tags: [Data science, Resources]
+---
+
+Time series notes & resources I found useful during my time series final project at Metis.
+
 ## Some notes on workflow for time-series:
 
 ### Typical steps:
