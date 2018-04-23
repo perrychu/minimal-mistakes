@@ -1,3 +1,8 @@
+---
+title: "Career & Interview resources"
+tags: [Data science, Careers, Resources]
+---
+
 Some links about joining startups...
 
 Should you join a startup?
