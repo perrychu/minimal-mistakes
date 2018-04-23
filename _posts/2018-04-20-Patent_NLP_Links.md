@@ -12,6 +12,7 @@ Ways to group
 * Machine learning clustering
 
 ## Links
+### Patent Similarity
 * [Vector space model - Kuhn, Younge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709238)
   * From https://www.patrf.org/technology/
   * [Slides](https://patentpdw.files.wordpress.com/2017/10/3-younge-and-kuhn.pdf)
@@ -21,6 +22,14 @@ Ways to group
 * [Citation link approach - Chen, Lee, Liu, Wu](https://pdfs.semanticscholar.org/dc95/133e4c13bfe4a99660b325c3a6349e22bf77.pdf)
 * [Another citation link approach - Rodriguez et al (paywall)](https://link.springer.com/article/10.1007%2Fs11192-015-1531-8)
 * [Hybrid category + text - Zhang et al (paywall)](https://www.sciencedirect.com/science/article/pii/S1751157715302169)
+* [Knowledge / Concept extraction](https://ac.els-cdn.com/S1877705815043490/1-s2.0-S1877705815043490-main.pdf?_tid=80b89b4c-e74c-4cd1-81e8-38cc102668cd&acdnat=1524509229_6ef0d3119367364dd9736ec3b2ecfbd4)
+* [Part of speech / Claim parsing](https://arxiv.org/pdf/1605.01744.pdf)
+
+### Patent Generation
+* [Grammar matching (stories -> patents)](http://lav.io/2014/05/transform-any-text-into-a-patent-application/)
+
+### Misc
+
 
 ## Companies
 * [Ambercite](https://www.ambercite.com/ambercite-ai/)
