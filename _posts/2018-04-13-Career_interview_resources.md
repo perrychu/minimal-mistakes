@@ -5,20 +5,21 @@ tags: [Data science, Careers, Resources]
 
 Resources on...
 
-## Data sci job search
+### Data sci job search
 * https://www.markmeloon.com/
 * https://talent.works/blog
 * https://www.datascience.com/blog/survive-your-data-science-interview
 
-## Data Sci interview questions
+### Data Sci interview questions
 * https://www.springboard.com/blog/data-science-interview-questions/
 * http://mockinterview.co/
+* https://www.impactinterview.com/2017/01/data-science-interview-questions/
 
-## Programming interview questions
+### Programming interview questions
 * https://www.interviewcake.com/
 * https://leetcode.com
 
-## SQL interview questions
+### SQL interview questions
 * http://sqlzoo.net/
 * https://www.toptal.com/sql/interview-questions
 
