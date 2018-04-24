@@ -5,7 +5,7 @@ tags: [Data science, Resources]
 
 A collection of links I want to come back to later
 
-## Misc 
+### Misc 
 Communicating Data Science  
 http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/
 
@@ -21,10 +21,13 @@ https://github.com/soumith/ganhacks
 Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)
 https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
-# RNN / LSTM Explanation (Stanford CS231 Lecture)
+Article series on ML - lots of deep learning examples
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+
+### RNN / LSTM Explanation (Stanford CS231 Lecture)
 https://www.youtube.com/watch?v=iX5V1WpxxkY
 
-## Timeseries
+### Timeseries
 Intro to Python ARIMA (using statsmodels)  
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
@@ -38,7 +41,7 @@ https://thingsolver.com/forecasting-var-prophet/
 [Forecasting principles and practice](https://www.otexts.org/fpp)  
 [Little book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 
-## Reinforcment Learning
+### Reinforcment Learning
 Overview of random vs. genetic vs. model approaches  
 https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
 
@@ -48,21 +51,21 @@ https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and
 David Silver's lecture notes  
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
-## MOOCs
+### MOOCs
 Machine Learning (Andrew Ng)  
 https://www.coursera.org/learn/machine-learning
 
 Deep Learning (Google)  
 https://www.udacity.com/course/deep-learning--ud730
 
-## Tensors
+### Tensors
 Conceptual Overview  
 https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32
 
 Paper on Tensor Decompositions (math)  
 http://www.sandia.gov/~tgkolda/pubs/pubfiles/SAND2007-6702.pdf
 
-## Sets of Datasets
+### Sets of Datasets
 Awesome Datasets @ Github https://github.com/awesomedata/awesome-public-datasets
   * [Tencent recommendation scoring](https://www.kaggle.com/c/kddcup2012-track1#SubmissionInstructions)
   * [USPTO bulk patent data](https://www.uspto.gov/learning-and-resources/bulk-data-products)
