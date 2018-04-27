@@ -39,6 +39,7 @@ Ways to group
 * [Pre-processing: More NLTK vs Spacy](https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK)
 * [Pre-processing: Counting package for big data](https://rare-technologies.com/counting-efficiently-with-bounter-pt-1-hashtable/)
 * [Topic Modeling: Word2Vec](https://rare-technologies.com/making-sense-of-word2vec/)
+* [Topic Modeling: Word2Vec Pre-trained Vectors](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/)
 * [Debugging: Memory usage trackers](https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python)
 
 ## Companies
