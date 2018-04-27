@@ -37,6 +37,7 @@ Ways to group
 ### NLP Workflow
 * [Pre-processing: NLTK vs Spacy](https://blog.thedataincubator.com/2016/04/nltk-vs-spacy-natural-language-processing-in-python/)
 * [Pre-processing: More NLTK vs Spacy](https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK)
+* [Pre-processing: Counting package for big data](https://rare-technologies.com/counting-efficiently-with-bounter-pt-1-hashtable/)
 * [Topic Modeling: Word2Vec](https://rare-technologies.com/making-sense-of-word2vec/)
 
 ## Companies
