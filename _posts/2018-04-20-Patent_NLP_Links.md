@@ -31,8 +31,13 @@ Ways to group
 ### General NLP
 * [Deciding if NLP is feasible](https://www.searchtechnologies.com/nlp-project-feasibility-flowchart)
 * [Overview of NLP embedding](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
-* [Embed / Encode / Attend / Predict (spacy)](https://explosion.ai/blog/deep-learning-formula-nlp)
+* [Embed / Encode / Attend / Predict for document classification (spacy)](https://explosion.ai/blog/deep-learning-formula-nlp)
 * [Package for keyword search](https://medium.com/@vi3k6i5/search-millions-of-documents-for-thousands-of-keywords-in-a-flash-b39e5d1e126a)
+
+### NLP Workflow
+* [Pre-processing: NLTK vs Spacy](https://blog.thedataincubator.com/2016/04/nltk-vs-spacy-natural-language-processing-in-python/)
+* [Pre-processing: More NLTK vs Spacy](https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK)
+* [Topic Modeling: Word2Vec](https://rare-technologies.com/making-sense-of-word2vec/)
 
 ## Companies
 * [Ambercite](https://www.ambercite.com/ambercite-ai/)
