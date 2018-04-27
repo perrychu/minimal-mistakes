@@ -40,6 +40,7 @@ Ways to group
 * [Pre-processing: Counting package for big data](https://rare-technologies.com/counting-efficiently-with-bounter-pt-1-hashtable/)
 * [Topic Modeling: Word2Vec](https://rare-technologies.com/making-sense-of-word2vec/)
 * [Topic Modeling: Word2Vec Pre-trained Vectors](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/)
+* [Evaluation: Topic coherence](http://aclweb.org/anthology/D/D12/D12-1087.pdf)
 * [Debugging: Memory usage trackers](https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python)
 
 ## Companies
