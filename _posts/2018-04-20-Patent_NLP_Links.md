@@ -38,6 +38,7 @@ Ways to group
 * [Pre-processing: NLTK vs Spacy](https://blog.thedataincubator.com/2016/04/nltk-vs-spacy-natural-language-processing-in-python/)
 * [Pre-processing: More NLTK vs Spacy](https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK)
 * [Pre-processing: Counting package for big data](https://rare-technologies.com/counting-efficiently-with-bounter-pt-1-hashtable/)
+* [Topic Modeling: Gensim LDA Tips](https://miningthedetails.com/blog/python/lda/GensimLDA/)
 * [Topic Modeling: Word2Vec Explanation](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 * [Topic Modeling: Matrix interpretations of Word2Vec](https://rare-technologies.com/making-sense-of-word2vec/)
 * [Topic Modeling: Word2Vec Pre-trained Vectors](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/) [Example notebook](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb)
