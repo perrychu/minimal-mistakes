@@ -16,5 +16,10 @@ Money
 * [More on startup compensation](https://quip.com/HEB3Ah9dYD6o)
   * [Link to article](https://www.inc.com/jessica-stillman/everything-you-need-to-know-about-startup-compensation.html)
 
+Start-up Fundraising
+* [Failure rates by stage](https://towardsdatascience.com/dissecting-startup-failure-by-stage-34bb70354a36)
+* [Funding by stage](https://towardsdatascience.com/when-do-unicorns-grow-their-horns-series-d-on-average-e75b52ac9dc0)
+* [Time between rounds](https://medium.com/radicle/how-much-runway-should-you-target-between-financing-rounds-478b1616cfb5)
+
 Misc
 * [YC Startup Playbook](http://playbook.samaltman.com/)
