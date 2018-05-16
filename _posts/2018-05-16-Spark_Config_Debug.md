@@ -5,8 +5,9 @@ tags: [Data science, Spark, Resources]
 # Links to Spark configuration, memory management / debugging, and the "small files" problem
 
 ### Texts
-[Spark gitbook](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
-[Learning Spark PDF]()
+* [Mastering Apache Spark - gitbook](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
+* [Learning Spark - PDF](https://github.com/niewj/ebook-share/blob/master/books/OReilly.Learning.Spark.Lightning-Fast.Big.Data.Analysis.pdf)
+* [Spark Definitive Guide - hardcopy ~$40](https://smile.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/)
 
 ### General Spark Config / Memory Calcs
 * [Config Values Guide / Spreadsheet](http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/)
