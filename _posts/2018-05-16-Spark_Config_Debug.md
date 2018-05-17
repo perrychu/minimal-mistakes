@@ -9,17 +9,20 @@ tags: [Data science, Spark, Resources]
 * [Learning Spark - PDF](https://github.com/niewj/ebook-share/blob/master/books/OReilly.Learning.Spark.Lightning-Fast.Big.Data.Analysis.pdf)
 * [Spark Definitive Guide - hardcopy ~$40](https://smile.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/)
 
-### General Spark Config / Memory Calcs
-* [Config Values Guide / Spreadsheet](http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/)
-* [Another config walkthrough](https://www.richakhandelwal.com/tuning-your-spark-jobs/)
-* [Optimizations](https://discourse.snowplowanalytics.com/t/learnings-from-using-the-new-spark-emr-jobs/1260)
+### General Spark Config 
+* [Tuning parameters](https://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
+* [More Parameters](https://discourse.snowplowanalytics.com/t/learnings-from-using-the-new-spark-emr-jobs/1260)
+* [Best practices](https://dlab.epfl.ch/2017-09-30-what-i-learned-from-processing-big-data-with-spark/)
 
-### Spark Memory Config / Debugging
-* [Ways of addressing out-of-memory errors](https://www.slideshare.net/SparkSummit/understanding-memory-management-in-spark-for-fun-and-profit)
-* [Tuning](https://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
+### Spark Memory Config
+* [Memory Config Guide / Spreadsheet](http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/)
+* [Another config walkthrough](https://www.richakhandelwal.com/tuning-your-spark-jobs/)
 * [Example memory config calculations](http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/)
-* [Tips / lessons learned](https://dlab.epfl.ch/2017-09-30-what-i-learned-from-processing-big-data-with-spark/)
+
+### Spark Out-of-Memory Debugging
+* [Ways of addressing out-of-memory errors](https://www.slideshare.net/SparkSummit/understanding-memory-management-in-spark-for-fun-and-profit)
 * [Common errors & fixes](https://www.indix.com/blog/engineering/lessons-from-using-spark-to-process-large-amounts-of-data-part-i/)
+* [More debugging examples](http://labs.criteo.com/2018/01/spark-out-of-memory/)
 * [Adjusting memory overhead for Python](https://gsamaras.wordpress.com/code/memoryoverhead-issue-in-spark/)
 
 ### Spark / Hadoop small file problems
