@@ -28,7 +28,7 @@ tags: [Data science, Spark, Resources]
 ### Spark / Hadoop small file problems
 The problem:
 * [Hadoop small files problem](https://blog.cloudera.com/blog/2009/02/the-small-files-problem/)
-* [Why its a problem for Spark (& S3)](http://garrens.com/blog/2017/11/04/big-data-spark-and-its-small-files-problem/)
+* [Why its a problem for Spark (& S3)](http://garrens.com/blog/2017/11/04/big-data-spark-and-its-small-files-problem/)  
 Solutions:
 * [Hadoop workaround class](https://aws.amazon.com/blogs/big-data/using-combineinputformat-to-combat-hadoops-small-files-problem/)
 * [Whole Text Files](https://medium.com/@dfdeshom/how-does-sparks-wholetextfiles-work-be8e0bd45da0)
