@@ -18,6 +18,7 @@ tags: [Data science, Spark, Resources]
 * [Memory Config Guide / Spreadsheet](http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/)
 * [Another config walkthrough](https://www.richakhandelwal.com/tuning-your-spark-jobs/)
 * [Example memory config calculations](http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/)
+* [Executor memory management](https://0x0fff.com/spark-memory-management/)
 
 ### Spark Out-of-Memory Debugging
 * [Ways of addressing out-of-memory errors](https://www.slideshare.net/SparkSummit/understanding-memory-management-in-spark-for-fun-and-profit)
