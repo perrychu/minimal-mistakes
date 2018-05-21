@@ -6,7 +6,8 @@ tags: [Resources]
 Links to useful guides / cheatsheets
 
 ## SSH
-http://matt.might.net/articles/ssh-hacks/
+* [SSH Guide](http://matt.might.net/articles/ssh-hacks/)
+* [Auto-SSH](https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/)
 
 ## Cheat Sheets
 * [Data Science Central links](https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
