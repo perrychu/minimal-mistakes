@@ -25,6 +25,7 @@ tags: [Data science, Spark, Resources]
 * [Common errors & fixes](https://www.indix.com/blog/engineering/lessons-from-using-spark-to-process-large-amounts-of-data-part-i/)
 * [More debugging examples](http://labs.criteo.com/2018/01/spark-out-of-memory/)
 * [Adjusting memory overhead for Python](https://gsamaras.wordpress.com/code/memoryoverhead-issue-in-spark/)
+* [JVM garbage collection algo & logs](https://plumbr.io/handbook/gc-tuning-measuring#gc-logs)
 
 ### Spark / Hadoop small file problems
 The problem:
