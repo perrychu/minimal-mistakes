@@ -1,5 +1,5 @@
 ---
-title: "Career & Interview resources"
+title: "Start-up / Career Resources"
 tags: [Data science, Careers, Resources]
 ---
 
