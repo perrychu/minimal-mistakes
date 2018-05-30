@@ -18,11 +18,14 @@ https://towardsdatascience.com/natural-language-processing-in-artificial-intelli
 Practical tips for Generative Adversarial Networks
 https://github.com/soumith/ganhacks
 
-Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)
-https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
+Compairing neural net frameworks (Tensorflow, pytorch, caffe, dl4j, etc.)  
+https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch  
 
-Article series on ML - lots of deep learning examples
-https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+Article series on ML - lots of deep learning examples  
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471  
+
+Linear algebra textbook with graphics  
+http://immersivemath.com/ila/index.html  
 
 ### RNN / LSTM Explanation (Stanford CS231 Lecture)
 https://www.youtube.com/watch?v=iX5V1WpxxkY
