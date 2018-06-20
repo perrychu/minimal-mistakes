@@ -12,4 +12,5 @@ Its a relatively new service (since late 2017?) and still growing... There aren'
 Some links:
 * [How does Sagemaker differ from Spark/EMR?](https://github.com/aws/sagemaker-spark/issues/13)
 * [Implementation example (early 2018 - partly using cli)](https://engineering.upside.com/digging-into-aws-sagemaker-first-look-90975d80cd87)
+* [Sagemaker developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
 * [Amazon's Sagemaker examples](https://github.com/awslabs/amazon-sagemaker-examples)
