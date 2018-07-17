@@ -13,6 +13,7 @@ tags: [Data science, Spark, Resources]
 * [Tuning parameters](https://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
 * [More Parameters](https://discourse.snowplowanalytics.com/t/learnings-from-using-the-new-spark-emr-jobs/1260)
 * [Best practices](https://dlab.epfl.ch/2017-09-30-what-i-learned-from-processing-big-data-with-spark/)
+* [IBM Quick Guide](https://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
 
 ### Spark Memory Config
 * [Memory Config Guide / Spreadsheet](http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/)
