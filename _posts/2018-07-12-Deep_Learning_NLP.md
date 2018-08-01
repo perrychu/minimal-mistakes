@@ -8,4 +8,5 @@ Links on deep learning embeddings:
   * [Older word embeddings (2017)](http://ruder.io/word-embeddings-2017/)
   * [Word embedding basics (2016)](http://ruder.io/word-embeddings-1/)
 * [Salesforce Language Model github](https://github.com/salesforce/awd-lstm-lm)
-* [ULMfit - Fast.ai text classification](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
+* [ULMfit - Fast.ai text classification](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)]
+* [Microsoft Research - Deep Semantic Similarity](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/dl-summer-school-2017.-Jianfeng-Gao.v2.pdf)
