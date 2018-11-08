@@ -8,6 +8,10 @@ Some links about managing concurrent database read/updates:
 * https://stackoverflow.com/questions/7843733/confused-about-updlock-holdlock
 * https://sqlperformance.com/2014/07/t-sql-queries/isolation-levels
 
+Using an update which returns results (MS SQL Server):
+* https://stackoverflow.com/questions/3860975/sql-update-top1-row-query/37799974#37799974
+* https://docs.microsoft.com/en-us/sql/t-sql/queries/output-clause-transact-sql?view=sql-server-2017
+
 Specific to pyodbc:
 * https://github.com/mkleehammer/pyodbc/wiki/Database-Transaction-Management
 
