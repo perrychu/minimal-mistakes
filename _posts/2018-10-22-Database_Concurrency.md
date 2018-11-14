@@ -18,5 +18,8 @@ Specific to pyodbc:
 And... connection pooling:
 * https://blog.pythian.com/sql-server-understanding-and-controlling-connection/
 
-Bonus link, efficient random row selection:
-* https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql
+Bonus links: 
+* Efficient random row selection: https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql
+* Inserting multiple rows efficiently: 
+   * https://stackoverflow.com/questions/8134602/psycopg2-insert-multiple-rows-with-one-query
+   * http://initd.org/psycopg/docs/extras.html#fast-exec
